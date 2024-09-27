@@ -82,7 +82,8 @@
    ```
 
 ### Screenshots (Placeholders for now):
-You can include screenshots from your app here, demonstrating the language picker, voice commands in action, and the real-time log viewer.
+
+
 <img width="342" alt="Screenshot 2024-09-27 at 9 52 08 PM" src="https://github.com/user-attachments/assets/eba9bb3c-fc12-4332-bf81-9eef010c7e82">
 
 <img width="259" alt="Screenshot 2024-09-27 at 9 52 30 PM" src="https://github.com/user-attachments/assets/16cf944a-144f-4e5e-a3f7-863e858a5f49">
